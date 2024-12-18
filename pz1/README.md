@@ -1,1 +1,1 @@
-# Parametrized module
+# Old-style driver
