@@ -7,3 +7,5 @@
 ## Labs:
 - Network patch (lr1) https://github.com/pashashush2002/Drivers_lr1
 - Responses (lr2) https://github.com/pashashush2002/Drivers_lr2
+## Authors
+Evpatov Pavel and Plyusnin Saveliy (М3О-414Б-21)
